@@ -1283,7 +1283,7 @@ async function loadDetail(link) {
   
   const hlsUrl = response.data.match(/var hlsUrl = '(.*?)';/)[1];
   if (!hlsUrl) {
-    throw new error("无法获取有效的HLS URL");
+    throw new Error("无法获取有效的HLS URL");
   }
   
   const $ = Widget.html.load(response.data);
