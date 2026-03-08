@@ -1,7 +1,7 @@
 {
   "title": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂 ‘𝓼 𝓦𝓲𝓭𝓰𝓮𝓽𝓼",
   "description": "自用合集",
-  "icon": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/icon.PNG",
+  "icon": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/icon.PNG",
   "widgets": [
     {
       "id": "forward.combined.media.lists",
@@ -10,7 +10,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "阿米诺斯",
-      "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Move_list.js"
+      "url": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/Widgets/Move_list.js"
     },
     {
       "id": "jable",
@@ -19,7 +19,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "nibiru",
-      "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Jable.js"
+      "url": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/Widgets/Jable.js"
     },
     {
       "id": "ti.bemarkt.javday",
@@ -28,7 +28,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Javday.js"
+      "url": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/Widgets/Javday.js"
     },
     {
       "id": "ti.bemarkt.javrate",
@@ -37,7 +37,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Javrate.js"
+      "url": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/Widgets/Javrate.js"
     }
   ]
 }
