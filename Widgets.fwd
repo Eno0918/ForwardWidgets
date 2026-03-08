@@ -1,5 +1,5 @@
 {
-  "title": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂 ‘𝓼 𝓦𝓲𝓭𝓰𝓮𝓽𝓼",
+  "title": "Eno's Widgets",
   "description": "自用合集",
   "icon": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/icon.PNG",
   "widgets": [
@@ -47,6 +47,15 @@
       "version": "1.0.0",
       "author": "NA",
       "url": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/Widgets/MissAV.js"
-    }
+    },
+    {
+      "id": "Pornhub",
+      "title": "PornHub",
+      "description": "在线观看PornHub视频",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.5",
+      "author": "海带",
+      "url": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/Widgets/ph.js",
+    },
   ]
 }
