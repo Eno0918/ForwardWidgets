@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "Jable",
   description: "获取 Jable 视频",
   author: "nibiru",
-  site: "https://github.com/Eno0918",
+  site: "https://github.com/quantumultxx",
   version: "1.0.0",
   requiredVersion: "0.0.1",
   detailCacheDuration: 60,
@@ -53,9 +53,9 @@ WidgetMetadata = {
           value: "https://jable.tv/hot/?mode=async&function=get_block&block_id=list_videos_common_videos_list",
         },
         {
-          name: "sort_by"，
-          title: "排序"，
-          输入: "enumeration",
+          name: "sort_by",
+          title: "排序",
+          type: "enumeration",
           description: "排序",
           enumOptions: [
             { title: "今日热门", value: "video_viewed_today" },
@@ -85,7 +85,7 @@ WidgetMetadata = {
         {
           name: "sort_by",
           title: "排序",
-          输入: "enumeration",
+          type: "enumeration",
           description: "排序",
           enumOptions: [
             { title: "最新发布", value: "latest-updates" },
@@ -326,7 +326,7 @@ WidgetMetadata = {
             { 
               title: "三宮つばき", 
               value: "https://jable.tv/models/f0e279c00b2a7e1aca2ef4d31d611020/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
-            }，
+            },
             { 
               title: "藍芽みずき", 
               value: "https://jable.tv/models/679c69a5488daa35a5544749b75556c6/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
@@ -358,7 +358,7 @@ WidgetMetadata = {
             { 
               title: "実浜みき", 
               value: "https://jable.tv/models/299c2d256b9c509f80302d261ea0b5a9/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
-            }，
+            },
             { 
               title: "弥生みづき", 
               value: "https://jable.tv/s1/models/mizuki-yayoi/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
