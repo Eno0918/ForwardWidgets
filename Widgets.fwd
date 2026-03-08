@@ -38,6 +38,15 @@
       "version": "1.0.0",
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/Widgets/Javrate.js"
+    },
+    {
+      "id": "missav",
+      "title": "MissAV",
+      "description": "MissAV VOD插件",
+      "requiredVersion": "0.0.2",
+      "version": "1.0.0",
+      "author": "NA",
+      "url": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/Widgets/MissAV.js"
     }
   ]
 }
