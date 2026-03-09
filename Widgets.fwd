@@ -65,6 +65,34 @@
       "version": "0.9.4",
       "author": "匿名",
       "url": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/Widgets/xvideos.js"
+    },
+    {
+      "id": "kanav.ad",
+      "title": "KanAV",
+      "description": "KanAV 免费高清视频",
+      "author": "夢 (XPTV转换)",
+      "version": "5.0.0",
+      "requiredVersion": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/Widgets/kanav.js"
+    },
+    {
+      "id": "xchina.co",
+      "title": "xChina 小黄书",
+      "description": "小黄书 – 中文AV、日本AV、模特私拍等",
+      "author": "xchina.co",
+      "version": "1.0.0",
+      "requiredVersion": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/Widgets/xchina.js"
+    },
+    {
+      "id": "hsex.men",
+      "title": "好色TV",
+      "description": "好色™ Tv – 华语区业余自拍、偷拍、原创成人视频",
+      "author": "hsex.men",
+      "version": "1.0.0",
+      "requiredVersion": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/Widgets/hsex.js"
     }
+
   ]
 }
