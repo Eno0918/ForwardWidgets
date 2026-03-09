@@ -83,6 +83,15 @@
       "version": "1.0.0",
       "requiredVersion": "0.0.1",
       "url": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/Widgets/hsex.js"
+    },
+    {
+      "id": "91porn",
+      "title": "91Porn",
+      "description": "在线观看91Porn视频",
+      "requiredVersion": "0.0.1",
+      "version": "0.9.6",
+      "author": "Baran",
+      "url": "https://raw.githubusercontent.com/Eno0918/ForwardWidgets/refs/heads/main/Widgets/91Porn.js"
     }
 
   ]
